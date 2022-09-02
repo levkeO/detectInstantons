@@ -1,5 +1,5 @@
 # detectInstantons
-Detect instantonic jumps in trajectories of supercooled liquids
+Detect instantonic jumps in trajectories of supercooled liquids (see https://arxiv.org/abs/2103.08060)
 
 Input data have to be .xyz files at the moment
 
