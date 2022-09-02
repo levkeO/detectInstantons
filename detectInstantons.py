@@ -1,10 +1,6 @@
 import sys
 import glob
-path='/mnt/e/Simulations/Facilitation/facilitation/newFac'
-sys.path.append(path)	
-import singPartNew as sp
-#from numba import njit, config, __version__
-#from numba.extending import overload
+import singPartDist as sp
 import numpy as np
 from scipy.interpolate import UnivariateSpline
 from scipy.optimize import curve_fit
